@@ -1,4 +1,4 @@
-# 1alinepschmidt
+# alinepschmidt
 👋 Olá, eu sou Aline Schmidt
 Seja bem-vindo(a) ao meu perfil no GitHub! Sou uma eterna aprendiz na área de desenvolvimento. 🌟
 
